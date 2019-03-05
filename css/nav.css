@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(184, 184, 184);
+     
+}
+
+header{
+            height: 80px;
+            background: rgba(0,0,0,.90)
+           
+        }
+
+
+        #ul{
+
+            padding: 25px;
+            margin-left:620px;
+            
+            }
+            
+            #nav{
+                list-style-type: none;
+                display: inline;
+                padding: 3%;
+                font-size: 17px;
+                font-family: coiny , cursive;
+              
+            }
+
+            #li{
+                list-style-type:none;
+            }

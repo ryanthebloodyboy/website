@@ -1,0 +1,54 @@
+a {
+    text-decoration: none;
+}
+
+#li{
+    color: white;
+}
+h3{
+    margin-left: 525px;
+    position: relative;
+    transition: 4450ms;
+
+}
+
+h3:hover{
+    font-size: 150px;
+}
+
+
+#square{
+    margin-top:20px;
+    position: absolute;
+    width: 70px;
+    height:35px ;
+    transition: 4500ms;
+    margin-left: 500px;
+    background-repeat: no-repeat;
+    font-family: Righteous , cursive;
+    transform: rotate(90deg);
+    transform: rotate(180deg)
+    rotate(360deg)
+    rotate(720deg)
+    rotate(900deg);
+    
+
+
+    
+}
+
+div:hover{
+   
+    background-image: url(pic.png);
+    transform: rotate(90deg);
+    transform: rotate(180deg)
+    rotate(360deg)
+    rotate(720deg)
+    rotate(900deg);
+   
+    -ms-scroll-translation: none;
+    font-size: 150px;
+text-align: center;
+   
+    
+}
